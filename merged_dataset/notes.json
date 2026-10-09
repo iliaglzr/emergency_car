@@ -1,0 +1,17 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "emergency"
+    },
+    {
+      "id": 1,
+      "name": "non_emergency"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
